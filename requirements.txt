@@ -1,0 +1,3 @@
+kivymd>=0.104.1
+python-bidi
+persiantools
