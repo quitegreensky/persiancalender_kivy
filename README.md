@@ -1,5 +1,7 @@
 # Persian(Jalali) calender for KivyMD/Kivy
 
+<img align="center" width="256" src=""/>
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package:
